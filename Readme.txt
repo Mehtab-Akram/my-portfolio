@@ -4,7 +4,7 @@ Greetings,
     information so other people can also use it and support the creators. 
 
 See it in Action : 
-https://mehtab-akram.github.io/my-portfolio-website/
+https://mehtab-akram.github.io/my-portfolio/
 
 
 
